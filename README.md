@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102531267/224749713-f1bf576b-075b-45cd-aa61-a0923140163b.jpg" width="900px" />
+  <img src="https://user-images.githubusercontent.com/102531267/224749713-f1bf576b-075b-45cd-aa61-a0923140163b.jpg" />
 </div>
 
 ### Tecnologias que estudamos 💻:
