@@ -1,4 +1,4 @@
-# Hi there 🖥💻🖥🖨👋
+# Hi there 🖥⌨🖱👋
 
 ## Tecnologias que estudamos 💻:
 <div style="display : inline_block"><br/>
