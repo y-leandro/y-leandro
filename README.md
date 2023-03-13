@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![2e57cbe5353f6731a8debf3f958e07c2](https://user-images.githubusercontent.com/102531267/224748344-530eb25d-2838-4c21-9e9c-9f4533b1fc23.jpg)
 
 ### Tecnologias que estudamos 💻:
 <div style="display : inline_block"><br/>
