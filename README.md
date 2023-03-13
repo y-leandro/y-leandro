@@ -1,10 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102531267/224816958-376cb141-9f93-4616-8bd7-2e62656cf608.png" />
 </div>
 
-### Tecnologias que estudamos 💻:
+###
+
+> ![My github stats](https://github-readme-stats.vercel.app/api?username=y-leandro&show_icons=true&theme=tokyonight) 
+
+###
+
+## 🐱‍💻 Tecnologias que estudamos:
 <div style="display : inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -14,6 +20,3 @@
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-### 🐱‍💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
