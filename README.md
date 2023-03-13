@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102531267/224749713-f1bf576b-075b-45cd-aa61-a0923140163b.jpg" width="800px" />
+  <img src="https://user-images.githubusercontent.com/102531267/224749713-f1bf576b-075b-45cd-aa61-a0923140163b.jpg" width="900px" />
 </div>
 
 ### Tecnologias que estudamos 💻:
@@ -14,6 +14,6 @@
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-#### 🐱‍💻
+### 🐱‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
