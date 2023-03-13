@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-
+![e217183ba7a417bebd78467aea5e97c1](https://user-images.githubusercontent.com/102531267/224749713-f1bf576b-075b-45cd-aa61-a0923140163b.jpg)
 ### Tecnologias que estudamos 💻:
 <div style="display : inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
