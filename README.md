@@ -4,11 +4,6 @@
   <img src="https://user-images.githubusercontent.com/102531267/224816958-376cb141-9f93-4616-8bd7-2e62656cf608.png" />
 </div>
 
-###
-
-> ![My github stats](https://github-readme-stats.vercel.app/api?username=y-leandro&show_icons=true&theme=tokyonight) 
-
-###
 
 ## 🐱‍💻 Tecnologias que estudamos:
 <div style="display : inline_block"><br/>
