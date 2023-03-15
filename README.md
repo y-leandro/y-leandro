@@ -26,7 +26,7 @@
 
 ## 💾 Meu portfolio:
 
-### 🔷 2º ANO 
+### 2º ANO 
 
 ##### 🔹 [SA. Projeto Academia](https://github.com/y-leandro/portfolio2/tree/main/SA%20-%20Contextualiza%C3%A7%C3%A3o)
 
@@ -40,7 +40,7 @@
 
 ##### 🔹 [Fundamentos de Rede](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Rede)
 
-### 🔷 3º ANO
+### 3º ANO
 
 ##### 🔹 [Programação de Aplicativos](https://github.com/y-leandro/portfolio2/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos)
 
