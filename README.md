@@ -20,21 +20,29 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&theme=tokyonight)
 
-####
-
-![Ekans2](https://github.com/y-leandro/y-leandro/blob/main/.github/workflows/rsrsrs.yml)
+-----------------------------------------------------------------------------------------------------------
 
 # Meu portfolio 
 
-## 1º ANO 
+## 2º ANO 
 
 ### [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
 
 ### [Fundamentos de TI](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20TI)
 
 ### [Lógica Computacional](https://github.com/y-leandro/portfolio2/tree/main/L%C3%B3gica%20Computacional)
+
+### [Fundamentos de Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/Banco%20de%20Dados)
+
+### [Fundamentos de Rede](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Rede)
+
+## 3º ANO
+
+### [Programação de Aplicativos](https://github.com/y-leandro/portfolio2/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos)
+
+### [Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/banco%20de%20dados)
 
 
 
