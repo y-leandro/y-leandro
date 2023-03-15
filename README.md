@@ -24,25 +24,27 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-# Meu portfolio 
+## Meu portfolio 
 
-## 2º ANO 
+### 2º ANO 
 
-### [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
+#### [SA. Projeto Academia](https://github.com/y-leandro/portfolio2/tree/main/SA%20-%20Contextualiza%C3%A7%C3%A3o)
 
-### [Fundamentos de TI](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20TI)
+#### [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
 
-### [Lógica Computacional](https://github.com/y-leandro/portfolio2/tree/main/L%C3%B3gica%20Computacional)
+#### [Fundamentos de TI](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20TI)
 
-### [Fundamentos de Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/Banco%20de%20Dados)
+#### [Lógica Computacional](https://github.com/y-leandro/portfolio2/tree/main/L%C3%B3gica%20Computacional)
 
-### [Fundamentos de Rede](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Rede)
+#### [Fundamentos de Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/Banco%20de%20Dados)
 
-## 3º ANO
+#### [Fundamentos de Rede](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Rede)
 
-### [Programação de Aplicativos](https://github.com/y-leandro/portfolio2/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos)
+### 3º ANO
 
-### [Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/banco%20de%20dados)
+#### [Programação de Aplicativos](https://github.com/y-leandro/portfolio2/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos)
+
+#### [Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/banco%20de%20dados)
 
 
 
