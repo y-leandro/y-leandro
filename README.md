@@ -28,25 +28,25 @@
 
 ### 2º ANO 
 
-##### 🔹 [SA. Projeto Academia](https://github.com/y-leandro/portfolio2/tree/main/SA%20-%20Contextualiza%C3%A7%C3%A3o)
+> ##### 🔹 [SA. Projeto Academia](https://github.com/y-leandro/portfolio2/tree/main/SA%20-%20Contextualiza%C3%A7%C3%A3o)
 
-##### 🔹 [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
+> ##### 🔹 [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
 
-##### 🔹 [Fundamentos de TI](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20TI)
+> ##### 🔹 [Fundamentos de TI](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20TI)
 
-##### 🔹 [Lógica Computacional](https://github.com/y-leandro/portfolio2/tree/main/L%C3%B3gica%20Computacional)
+> ##### 🔹 [Lógica Computacional](https://github.com/y-leandro/portfolio2/tree/main/L%C3%B3gica%20Computacional)
 
-##### 🔹 [Fundamentos de Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/Banco%20de%20Dados)
+> ##### 🔹 [Fundamentos de Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/Banco%20de%20Dados)
 
-##### 🔹 [Fundamentos de Rede](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Rede)
+> ##### 🔹 [Fundamentos de Rede](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Rede)
 
 ### 3º ANO
 
-##### 🔹 [Programação de Aplicativos](https://github.com/y-leandro/portfolio2/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos)
+> ##### 🔹 [Programação de Aplicativos](https://github.com/y-leandro/portfolio2/tree/main/Programa%C3%A7%C3%A3o%20de%20Aplicativos)
 
-##### 🔹 [Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/banco%20de%20dados)
+> ##### 🔹 [Banco de Dados](https://github.com/y-leandro/portfolio2/tree/main/banco%20de%20dados)
 
-##### 🔹 [Modelagem de Sistema](https://github.com/y-leandro/portfolio2/tree/main/Modelagem%20de%20Sistema)
+> ##### 🔹 [Modelagem de Sistema](https://github.com/y-leandro/portfolio2/tree/main/Modelagem%20de%20Sistema)
 
 
 
