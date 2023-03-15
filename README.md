@@ -30,11 +30,11 @@
 
 ### [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
 
-######[Site do Banco com cores análogas](https://github.com/y-leandro/portfolio2/blob/main/Fundamentos%20de%20Design/Design.docx)
+##### [Site do Banco com cores análogas](https://github.com/y-leandro/portfolio2/blob/main/Fundamentos%20de%20Design/Design.docx)
 
-######[Fundamentos design de site](https://github.com/y-leandro/portfolio2/blob/main/Fundamentos%20de%20Design/Leandro%20de%20Medeiros%20Filho%20-%20Aula%2022_02%20-%20Fundamentos%20de%20Design.docx)
+##### [Fundamentos design de site](https://github.com/y-leandro/portfolio2/blob/main/Fundamentos%20de%20Design/Leandro%20de%20Medeiros%20Filho%20-%20Aula%2022_02%20-%20Fundamentos%20de%20Design.docx)
 
-######[Site no Figma](https://github.com/y-leandro/portfolio2/blob/main/Fundamentos%20de%20Design/Site%20no%20Figma)
+##### [Site no Figma](https://github.com/y-leandro/portfolio2/blob/main/Fundamentos%20de%20Design/Site%20no%20Figma)
 
 
 
