@@ -4,8 +4,13 @@
   <img src="https://user-images.githubusercontent.com/102531267/224816958-376cb141-9f93-4616-8bd7-2e62656cf608.png" />
 </div>
 
-#### Me chamo Leandro, integrante do 3° ano do Ensino Medio integrado ao Curso Técnico em Desenvolvimento de Sistemas.
-##### Repositório criado para colocar as atividades da área técnica.
+<br>
+<img align="right" height="190" alt="danagif" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+</br>
+
+### Olá! Me chamo Leandro
+- Cursando o 3° ano do Ensino Medio integrado ao Curso Técnico em Desenvolvimento de Sistemas.
+###### Repositório criado para colocar as atividades da área técnica.
 
 ## 🐱‍💻 Tecnologias que estudamos:
 <div style="display : inline_block"><br/>
@@ -25,7 +30,9 @@
 
 -----------------------------------------------------------------------------------------------------------
 
+
 ## 💾 Meu portfolio:
+
 
 ### 2º ANO 
 
