@@ -37,7 +37,7 @@
 
 ### 2º ANO 
 
-> ##### 🔹 [SA. Projeto Academia](https://github.com/y-leandro/portfolio2/tree/main/SA%20-%20Contextualiza%C3%A7%C3%A3o)
+> ##### 🔸 [SA. Projeto Academia](https://github.com/y-leandro/portfolio2/tree/main/SA%20-%20Contextualiza%C3%A7%C3%A3o)
 
 > ##### 🔹 [Fundamentos de Design](https://github.com/y-leandro/portfolio2/tree/main/Fundamentos%20de%20Design)
 
@@ -57,7 +57,7 @@
 
 > ##### 🔹 [Modelagem de Sistema](https://github.com/y-leandro/portfolio2/tree/main/Modelagem%20de%20Sistema)
 
-> ##### 🔹 [Gatomon](https://github.com/y-leandro/Gatomon)
+> ##### 🔸 [Gatomon](https://github.com/y-leandro/Gatomon)
 
 > ##### 🔹 [Lógica com JavaScript](https://github.com/y-leandro/atvLogicaJS)
 
