@@ -7,7 +7,7 @@
 ## 
 <img align="right" height="190" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
-### Olá! Me chamo Leandro 
+### Olá! Me chamo Leandro.
 
 - 17 anos.
 - 3° ano do Ensino Medio.
