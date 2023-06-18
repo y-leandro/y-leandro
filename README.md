@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/102531267/224816958-376cb141-9f93-4616-8bd7-2e62656cf608.png" />
 </div>
 
-#### <img align="right" height="190" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+## <img align="right" height="190" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 ### Olá! Me chamo Leandro 
 
