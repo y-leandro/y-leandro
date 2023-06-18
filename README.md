@@ -12,7 +12,7 @@
 - 17 anos.
 - 3° ano do Ensino Medio.
 - Técnico em Desenvolvimento de Sistemas. 
-###### Repositório criado para colocar as atividades da área técnica.
+###### Github criado para colocar as atividades da área técnica.
 
 ## 🐱‍💻 Tecnologias que estudamos:
 <div style="display : inline_block"><br/>
