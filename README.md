@@ -4,10 +4,6 @@
   <img src="https://user-images.githubusercontent.com/102531267/224816958-376cb141-9f93-4616-8bd7-2e62656cf608.png" />
 </div>
 
-<br>
-<img align="right" height="190" alt="danagif" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
-</br>
-
 ### Olá! Me chamo Leandro
 - Cursando o 3° ano do Ensino Medio integrado ao Curso Técnico em Desenvolvimento de Sistemas.
 ###### Repositório criado para colocar as atividades da área técnica.
@@ -23,6 +19,11 @@
   
 </div>
 
+<br>
+<img align="right" height="190" alt="danagif" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+</br>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ###
 
