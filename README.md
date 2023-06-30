@@ -14,7 +14,9 @@
 - Técnico em Desenvolvimento de Sistemas. 
 ###### Github criado para colocar as atividades da área técnica.
 
-## 🐱‍💻 Tecnologias que estudamos:
+<div>
+<details>
+  <summary><b>🐱‍💻 Tecnologias que estudamos:</b></summary><br>
 <div>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -39,6 +41,9 @@
 <img  align="center" height="25px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 <img  align="center" height="25px" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 </div>
+</details>
+</div>
+
 
 
 ###
