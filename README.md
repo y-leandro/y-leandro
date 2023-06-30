@@ -5,7 +5,7 @@
 </div>
 
 ## 
-<img align="right" height="190" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img align="right" height="180" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 ### Olá! Me chamo Leandro.
 
@@ -20,7 +20,7 @@
 <details>
   <summary><b>🐱‍💻 Tecnologias que estudamos:</b></summary><br>
 <div>
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display : inline_block" align="left">
