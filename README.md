@@ -14,8 +14,6 @@
 - Técnico em Desenvolvimento de Sistemas. 
 ###### Github criado para colocar as atividades da área técnica.
 
----
-
 <div>
 <details>
   <summary><b>🐱‍💻 Tecnologias que estudamos:</b></summary><br>
