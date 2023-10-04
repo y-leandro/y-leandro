@@ -16,7 +16,7 @@
 
 <div>
 <details>
-  <summary><b>🐱‍💻 Tecnologias que estudamos:</b></summary><br>
+  <summary><h3>🐱‍💻 Tecnologias que estudamos:</h3></summary><br>
 <div>
   <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
