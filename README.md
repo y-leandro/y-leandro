@@ -10,7 +10,7 @@
 ### Olá! Me chamo Leandro.
 
 - 18 anos.
-- Formado em Técnico de Desenvolvimento de Sistemas.
+- Técnico de Desenvolvimento de Sistemas.
 - Cursando Ciências da Computação. 
 ###### Github criado para portfólio e mostrar meus conhecimentos e habilidades.
 
