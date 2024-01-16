@@ -9,14 +9,14 @@
 
 ### Olá! Me chamo Leandro.
 
-- 17 anos.
-- 3° ano do Ensino Medio.
-- Técnico em Desenvolvimento de Sistemas. 
-###### Github criado para colocar as atividades da área técnica.
+- 18 anos.
+- Formado em Técnico de Desenvolvimento de Sistemas.
+- Cursando Ciências da Computação. 
+###### Github criado para portfólio e mostrar meus conhecimentos e habilidades.
 
 <div>
 <details>
-  <summary><h3>🐱‍💻 Tecnologias que estudamos:</h3></summary><br>
+  <summary><h3>🐱‍💻 Tecnologias que estudei:</h3></summary><br>
 <div>
   <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
