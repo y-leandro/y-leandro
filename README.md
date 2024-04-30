@@ -55,8 +55,8 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-
-## 💾 Meu portfolio:
+<details>
+  <summary><h3>💾 Meu portfolio:</h3></summary><br>
 
 
 ### 2º ANO 
@@ -90,5 +90,5 @@
 > ##### 🔹 [Atividade Monitoria](https://github.com/y-leandro/AtvMonitoria)
 
 > ##### 🔸 [Atividade 5 telas (React Native)](https://github.com/y-leandro/Atv_5_Telas)
-
+</details>
 
