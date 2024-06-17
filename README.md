@@ -56,7 +56,14 @@
 -----------------------------------------------------------------------------------------------------------
 
 <details>
-  <summary><h3>💾 Meu portfolio:</h3></summary><br>
+  <summary><h3>💾 Faculdade:</h3></summary>
+  
+  #### 🔸 [A3 Primeiro semestre](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
+  
+</details>
+
+<details>
+  <summary><h3>💾 Portfolio escolar:</h3></summary><br>
 
 
 ### 2º ANO 
