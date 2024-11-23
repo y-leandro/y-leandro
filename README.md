@@ -7,16 +7,16 @@
 ## 
 <img align="right" height="180" src="https://media1.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif?cid=ecf05e47imlfenvt68zskisn53kcf9aifd3ianpaxf9odae1&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
-### Olá! Me chamo Leandro.
+### Hey! I'm Leandro.
 
-- 18 anos.
-- Técnico de Desenvolvimento de Sistemas.
-- Cursando Ciências da Computação. 
-###### Github criado para portfólio e mostrar meus conhecimentos e habilidades.
+- 18y.
+- Systems Development Technician.
+- Studying Computer Science.. 
+###### I created this GitHub to serve as a portfolio, showcasing my knowledge and skills.
 
 <div>
 <details>
-  <summary><h3>🐱‍💻 Tecnologias que estudei:</h3></summary><br>
+  <summary><h3>🐱‍💻 Technologies I’ve Studied:</h3></summary><br>
 <div>
   <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-leandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -56,14 +56,14 @@
 -----------------------------------------------------------------------------------------------------------
 
 <details>
-  <summary><h3>💾 Faculdade:</h3></summary>
+  <summary><h3>💾 College:</h3></summary>
   
   #### 🔸 [A3 Primeiro semestre](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
   
 </details>
 
 <details>
-  <summary><h3>💾 Portfolio escolar:</h3></summary><br>
+  <summary><h3>💾 School portfolio:</h3></summary><br>
 
 
 ### 2º ANO 
