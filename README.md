@@ -9,7 +9,7 @@
 
 ### Hey! I'm Leandro.
 
-- 18y.
+- 19y.
 - Systems Development Technician.
 - Studying Computer Science.. 
 ###### I created this GitHub to serve as a portfolio, showcasing my knowledge and skills.
