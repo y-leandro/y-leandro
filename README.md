@@ -58,7 +58,9 @@
 <details>
   <summary><h3>💾 College:</h3></summary>
   
-  #### 🔸 [A3 Primeiro semestre](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
+  #### 🔸 [A3 Primeiro Semestre: Aplicação em Java](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
+
+  #### 🔸 [A3 Terceiro Semestre: GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
   
 </details>
 
