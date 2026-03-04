@@ -61,6 +61,8 @@
   #### 🔸 [A3 Primeiro Semestre: Aplicação em Java](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 
   #### 🔸 [A3 Terceiro Semestre: GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
+
+  #### 🔸 [A3 de Sistemas Distribuidos e Mobile](https://github.com/y-leandro/A3-sistemas-distribuidos)
   
 </details>
 
