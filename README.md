@@ -58,11 +58,11 @@
 <details>
   <summary><h3>💾 College:</h3></summary>
   
-  #### 🔸 [A3 Primeiro Semestre: Aplicação em Java](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
+  #### 🔸 [A3 1º Período: Aplicação em Java](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 
-  #### 🔸 [A3 Terceiro Semestre: GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
+  #### 🔸 [A3 3º Período: GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
 
-  #### 🔸 [A3 de Sistemas Distribuidos e Mobile](https://github.com/y-leandro/A3-sistemas-distribuidos)
+  #### 🔸 [A3 4º Período: Sistemas Distribuidos e Mobile](https://github.com/y-leandro/A3-sistemas-distribuidos)
   
 </details>
 
